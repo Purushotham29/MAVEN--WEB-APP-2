@@ -1,5 +1,6 @@
-<html>
+ <html>
 <body>
-<h2>Hello World!</h2>
+<h1><font color='red'>Welcome to Purushotham IT...!!<font></h1>
+<h2>Learn Hear.... Lead Anywhere...!! </h2>    
 </body>
 </html>
